@@ -2,6 +2,14 @@
 
 A real-time paddle ball game implemented on ESP32 with an 8×8 LED matrix display and online score tracking via a web-based scorekeeper application.
 
+## 📚 Academic Information
+
+**Project Title:** Paddle Ball Bouncing Game  
+**Module:** Programming Internet of Things  
+**University:** Millat Umidi University (MU)  
+**Lecturer:** Lazizbek Yusupov  
+**Semester:** Fall 2025
+
 ---
 
 ## 📋 Table of Contents
@@ -436,7 +444,13 @@ This project is for educational purposes (IoT Final Exam).
 
 ## 👨‍💻 Author
 
-Developed as part of IoT course final examination.
+Developed as part of Programming Internet of Things course final examination.
+
+**Academic Details:**
+- **University:** Millat Umidi University (MU)
+- **Module:** Programming Internet of Things
+- **Lecturer:** Lazizbek Yusupov
+- **Semester:** Fall 2025
 
 ---
 
