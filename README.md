@@ -10,6 +10,10 @@ A real-time paddle ball game implemented on ESP32 with an 8×8 LED matrix displa
 **Lecturer:** Lazizbek Yusupov  
 **Semester:** Fall 2025
 
+**Done By:**
+- Muzaffar Obidjonov
+- Asliddin Eshonkulov
+
 ---
 
 ## 📋 Table of Contents
